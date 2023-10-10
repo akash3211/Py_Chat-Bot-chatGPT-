@@ -2,11 +2,11 @@
 Py_Chat Bot is a Python-based chatbot that utilizes OpenAI's GPT-3.5 Turbo model to engage in conversations with users.
 
 # Table of Contents
-**Getting Started**
-**Usage**
-**Dependencies**
-**Contributing**
-**License**
+Getting Started
+Usage
+Dependencies
+Contributing
+License
 
 
 # Getting Started
