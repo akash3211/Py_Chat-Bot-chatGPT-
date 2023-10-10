@@ -23,7 +23,7 @@ Clone this repository to your local machine:
 
 # bash
 Copy code
-git clone https://github.com/akash3211/py_chat_bot.git
+git clone https://github.com/akash3211/Py_Chat-Bot-chatGPT-.git
 
 Navigate to the project directory
 
